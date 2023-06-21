@@ -1,4 +1,4 @@
-# Experiment 3
+# Experiment 17
 
 ## Aim:
 To create SQL query to show the top n records of the table using Limit method.
