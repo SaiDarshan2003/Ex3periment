@@ -82,5 +82,10 @@ SELECT TOP 3 * FROM Player ORDER BY DESIGNATION DESC;
 SELECT * FROM (SELECT * FROM Player ORDER BY DESIGNATION DESC)
 WHERE ROWNUM <= 3;
 ```
+
+## Output;
+
+![image](https://github.com/SaiDarshan2003/Ex3periment/assets/94692595/c6d711ab-9316-4e61-afe2-4d9fd1c7b94c)
+
 ## Result:
 Therefore we have successfully created a SQL query to show the top n records of the table using Limit method.
